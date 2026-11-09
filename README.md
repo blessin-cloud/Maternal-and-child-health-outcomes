@@ -17,7 +17,7 @@
 The primary dataset used for this analysis is the 'train.csv' file in prediction interval competition :Birth Weihght from kaggle-cdc natality records(2007-2002).
 ### Tools
  - Excel - Data cleaning
-    - [download here](https://wwww.kaggle.com/competitions/prediction-interval-competition-i-birth-weight/data)
+    - [download here](https://www.kaggle.com/competitions/prediction-interval-competition-i-birth-weight/data?)
  - Power Bi - Data Visualization and Creating Reports
 ### Data Cleaning And Preparation
 In the initial data preparation phase I did the following:
